@@ -46,3 +46,23 @@ img {
     opacity: 1;
     transform: scale(1);
 }
+
+.arrow-nav .prev {
+    color: rgb(242, 238, 238);
+    background-color: rgb(240, 60, 0);
+    height: 25px;
+    width: 69px;
+    border: none;
+    border-radius: 8px;
+    font-family: monospace;
+}
+
+.arrow-nav .next {
+    color: rgb(242, 238, 238);
+    background-color: rgb(240, 60, 0);
+    height: 25px;
+    width: 69px;
+    border: none;
+    border-radius: 8px;
+    font-family: monospace;
+}
